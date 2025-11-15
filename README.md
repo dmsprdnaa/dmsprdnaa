@@ -1,59 +1,64 @@
-👋 Hi, I'm Dimas
+# 👋 Hi, I'm Dimas
 
-🎓 Informatics Student
-💻 Fullstack Web Developer
-🛠️ Aspiring Fullstack
+🎓 **Informatics Student**\
+💻 **Fullstack Web Developer**\
+🛠️ **Aspiring Fullstack Developer**
 
-I’m currently expanding my skills in backend development, system design, and modern web technologies. I also work as a Fullstack Web Developer Intern, where I handle API development, database management, and frontend implementation for real-world web systems.
+I'm currently expanding my skills in backend development, system design,
+and modern web technologies. I also work as a **Fullstack Web Developer
+Intern**, where I handle API development, database management, and
+frontend implementation for real-world web systems.
 
-🚀 Current Focus
+------------------------------------------------------------------------
 
-⚙️ Deepening my understanding of backend architecture, REST APIs, and clean code
-🧱 Building full-stack applications using Laravel, React, and Tailwind CSS
-💾 Optimizing databases and designing scalable system structures
-🏗️ Working on several real-world projects such as e-Procurement systems, hotel reservation systems, and weighted proposal evaluation modules
-🌐 Preparing for a transition into Web3 development in the coming years
-🔍 Strengthening my experience in multi-role authentication, vendor management, and document/PDF processing
+## 🚀 Current Focus
 
-### 🧰 **Tech Stack**
+-   ⚙️ Deepening my understanding of **backend architecture**, REST
+    APIs, and clean code\
+-   🧱 Building full-stack applications using **Laravel**, **React**,
+    and **Tailwind CSS**\
+-   💾 Optimizing databases and designing scalable system structures\
+-   🏗️ Working on several real-world projects such as **e-Procurement
+    systems**, **hotel reservation systems**, and **weighted proposal
+    evaluation modules**\
+-   🌐 Preparing for a transition into **Web3 development**\
+-   🔍 Strengthening experience in **multi-role authentication**, vendor
+    management, and document/PDF processing
 
+------------------------------------------------------------------------
+
+## 🧰 Tech Stack
+
+```{=html}
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,laravel,tailwind,git,mysql" />
+```
+`<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,laravel,tailwind,git,mysql" />`{=html}
+```{=html}
 </p>
-
+```
 > Comfortable working across frontend, backend, and system-level code.
 
----
+------------------------------------------------------------------------
 
-### 📊 **GitHub Stats**
+## 📊 GitHub Stats
+
+```{=html}
 <p align="left">
-<a href="https://github.com/dmsprdnaa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmsprdnaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmsprdnaa&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+```
+`<a href="https://github.com/dmsprdnaa">`{=html}
+`<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmsprdnaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>`{=html}
+`<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmsprdnaa&layout=compact&langs_count=8&theme=algolia"/>`{=html}
+`</a>`{=html}
+```{=html}
 </p>
+```
 
-### 📫 **Connect With Me**
+------------------------------------------------------------------------
 
-- 🐦 [Twitter](https://instagram.com/dmsprdnaa_)
+## 📫 Connect With Me
 
----
+-   📸 Instagram: https://instagram.com/dmsprdnaa\_
 
-⭐️ From [@azdharsyahputra](https://github.com/dmsprdnaa)
+------------------------------------------------------------------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+⭐️ From [@dmsprdnaa](https://github.com/dmsprdnaa)
