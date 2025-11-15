@@ -1,16 +1,59 @@
-## Hi there 👋
+👋 Hi, I'm Dimas
 
-<!--
-**dmsprdnaa/dmsprdnaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics Student
+💻 Fullstack Web Developer
+🛠️ Aspiring Fullstack
 
-Here are some ideas to get you started:
+I’m currently expanding my skills in backend development, system design, and modern web technologies. I also work as a Fullstack Web Developer Intern, where I handle API development, database management, and frontend implementation for real-world web systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current Focus
+
+⚙️ Deepening my understanding of backend architecture, REST APIs, and clean code
+🧱 Building full-stack applications using Laravel, React, and Tailwind CSS
+💾 Optimizing databases and designing scalable system structures
+🏗️ Working on several real-world projects such as e-Procurement systems, hotel reservation systems, and weighted proposal evaluation modules
+🌐 Preparing for a transition into Web3 development in the coming years
+🔍 Strengthening my experience in multi-role authentication, vendor management, and document/PDF processing
+
+### 🧰 **Tech Stack**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,laravel,tailwind,git,mysql" />
+</p>
+
+> Comfortable working across frontend, backend, and system-level code.
+
+---
+
+### 📊 **GitHub Stats**
+<p align="left">
+<a href="https://github.com/dmsprdnaa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmsprdnaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmsprdnaa&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 📫 **Connect With Me**
+
+- 🐦 [Twitter](https://instagram.com/dmsprdnaa_)
+
+---
+
+⭐️ From [@azdharsyahputra](https://github.com/dmsprdnaa)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
