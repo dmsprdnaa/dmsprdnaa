@@ -30,7 +30,7 @@ frontend implementation for real-world web systems.
 ### 🧰 **Tech Stack**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,rust,laravel,express,react,tailwind,git,mysql,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,laravel,tailwind,git,mysql" />
 </p>
 
 > Comfortable working across frontend, backend, and system-level code.
@@ -39,16 +39,16 @@ frontend implementation for real-world web systems.
 
 ### 📊 **GitHub Stats**
 <p align="left">
-<a href="https://github.com/azdharsyahputra">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azdharsyahputra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azdharsyahputra&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/dmsprdnaa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmsprdnaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmsprdnaa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 📫 **Connect With Me**
 
-- 🐦 [Twitter](https://twitter.com/muhammadazdhar3)
+- 🐦 [Instagram](https://instagram.com/dmsprdnaa_)
 
 ---
 
-⭐️ From [@azdharsyahputra](https://github.com/azdharsyahputra)
+⭐️ From [@dmsprdnaa](https://github.com/dmsprdnaa)
