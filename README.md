@@ -30,7 +30,7 @@ frontend implementation for real-world web systems.
 ### 🧰 **Tech Stack**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,laravel,tailwind,git,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,laravel,react,tailwind,git,mysql" />
 </p>
 
 > Comfortable working across frontend, backend, and system-level code.
