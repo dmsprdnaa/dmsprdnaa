@@ -13,15 +13,15 @@ frontend implementation for real-world web systems.
 
 ## 🚀 Current Focus
 
--   ⚙️ Deepening my understanding of **backend architecture**, REST
-    APIs
+-   ⚙️ Deepening my understanding of **backend architecture**, **REST
+    APIs**
 -   🧱 Building full-stack applications using **Laravel**, **React**,
     and **Tailwind CSS**
 -   💾 Optimizing databases and designing scalable system structures
 -   🏗️ Working on several real-world projects such as **e-Procurement
-    systems**, **hotel reservation systems**, and **web inventory
--   🔍 Strengthening experience in **multi-role authentication**, vendor
-    management, and document/PDF processing
+    systems**, **hotel reservation systems**, and **web inventory**
+-   🔍 Strengthening experience in **multi-role authentication**, **vendor
+    management**, and **document/PDF processing**
 
 ------------------------------------------------------------------------
 
